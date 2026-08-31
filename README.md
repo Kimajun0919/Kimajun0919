@@ -1,8 +1,14 @@
+<div align="right">
+
+<strong>English</strong> | <a href="./README.ko.md">한국어</a>
+
+</div>
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving\&height=260\&text=HAJUN%20KIM\&fontAlign=50\&fontAlignY=38\&desc=Product%20Builder%20%C2%B7%20PM%20%C2%B7%20Developer\&descAlign=50\&descAlignY=58\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&text=HAJUN%20KIM&fontAlign=50&fontAlignY=38&desc=Product%20Builder%20%C2%B7%20PM%20%C2%B7%20Developer&descAlign=50&descAlignY=58&animation=fadeIn)
 
-<a href="https://hajunkim-portfolio.pages.dev/">
+<a href="https://hajunkimportfolio.lightoflife.work/">
   <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Kimajun0919">
@@ -10,6 +16,9 @@
 </a>
 <a href="https://lightoflife.work">
   <img src="https://img.shields.io/badge/LIGHT_OF_LIFE-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+</a>
+<a href="https://github.com/LIGHTOFLIFE-Lab">
+  <img src="https://img.shields.io/badge/LAB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -20,14 +29,13 @@
 
 ---
 
-# 👋 About Me
+# 👋 Hi, I'm Hajun Kim
 
-안녕하세요. **김하준 (Hajun Kim)** 입니다.
+### Product Builder · PM · Developer
 
-저는 아이디어를 문서로 끝내기보다
-**직접 기획하고, 만들고, 출시하는 Product Builder**를 지향합니다.
+I enjoy turning ideas into products people can actually use.
 
-제품의 본질적인 문제를 정의하고,
+Rather than stopping at planning or documentation, I like connecting the entire process:
 
 ```text
 Idea
@@ -45,38 +53,36 @@ Launch
 Improve
 ```
 
-이 전체 과정을 연결하는 것을 좋아합니다.
+> **Closer to the Core.**  
+> I build products that remove friction and help ideas become real.
 
-> **Closer to the Core.**
-> 불편함을 없애고, 누군가의 아이디어와 꿈이 실제 제품이 되도록 만드는 일을 합니다.
+---
 
-<br/>
+# 🚀 Currently Building
 
-## 🚀 Currently Building
+## 🍡 Chaltteok
 
-### 🍡 Chaltteok
+**An execution-focused productivity tool that makes complex work simple.**
 
-**복잡한 일을 찰떡같이 해결하는 업무 실행 도구**
+Chaltteok is designed for people who want useful results without having to master complicated prompts, workflows, or AI tools.
 
-사용자가 복잡한 명령어를 작성하거나
-AI 사용법을 공부하지 않아도 원하는 작업을 빠르게 처리할 수 있는 제품을 만들고 있습니다.
+I work across:
 
-* Product Planning
-* UX / Workflow Design
-* AI Product
-* Web Development
-* Business & Launch
+- Product Planning
+- UX & Workflow Design
+- AI Product Design
+- Web Development
+- Business & Launch
 
 🌐 **https://chaltteok.cc**
 
-<br/>
+---
 
-### ✨ LIGHT OF LIFE
+## ✨ LIGHT OF LIFE
 
 > **Build things that make someone's dream possible.**
 
-기술과 제품을 통해 사람들의 불편함을 줄이고
-아이디어가 실제 결과물로 이어질 수 있도록 만드는 프로젝트를 진행합니다.
+LIGHT OF LIFE is a product studio focused on reducing friction through technology, design, and practical software.
 
 🌐 **https://lightoflife.work**
 
@@ -90,15 +96,15 @@ AI 사용법을 공부하지 않아도 원하는 작업을 빠르게 처리할 �
 
 ### 💡 Product
 
-* Product Strategy
-* Product Discovery
-* PRD
-* IA
-* User Flow
-* UX Planning
-* Service Design
-* Project Management
-* 0 → 1 Product
+- Product Strategy
+- Product Discovery
+- PRD
+- IA
+- User Flow
+- UX Planning
+- Service Design
+- Project Management
+- 0 → 1 Product
 
 </td>
 
@@ -106,14 +112,14 @@ AI 사용법을 공부하지 않아도 원하는 작업을 빠르게 처리할 �
 
 ### 💻 Development
 
-* Web Development
-* App Development
-* Frontend
-* Backend
-* API Integration
-* Git / GitHub
-* Deployment
-* Automation
+- Web Development
+- App Development
+- Frontend
+- Backend
+- API Integration
+- Git / GitHub
+- Deployment
+- Automation
 
 </td>
 
@@ -121,14 +127,14 @@ AI 사용법을 공부하지 않아도 원하는 작업을 빠르게 처리할 �
 
 ### 🤖 AI
 
-* AI Product Planning
-* LLM Integration
-* Prompt Design
-* AI Workflow
-* Automation
-* RAG Architecture
-* AI UX
-* Agentic Workflow
+- AI Product Planning
+- LLM Integration
+- Prompt Design
+- AI Workflow
+- Automation
+- RAG Architecture
+- AI UX
+- Agentic Workflow
 
 </td>
 </tr>
@@ -182,39 +188,52 @@ AI 사용법을 공부하지 않아도 원하는 작업을 빠르게 처리할 �
 
 ---
 
-# 📌 Selected Projects
+# 📌 LIGHT OF LIFE Lab
+
+<div align="center">
+
+### ✨ Building practical products from real problems
+
+**LIGHT OF LIFE Lab** is where I build and experiment with products across  
+AI, productivity, automation, audio, and human-centered software.
+
+<a href="https://github.com/LIGHTOFLIFE-Lab">
+  <img src="https://img.shields.io/badge/GitHub-LIGHTOFLIFE--Lab-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 📸 WebPhotoBooth
+## 🎚 LoLvlance
 
-웹 환경에서 사용할 수 있는
-**Photo Booth 프로젝트**
+A browser-based **audio monitoring assistant** for church sound teams, worship volunteers, and small live setups.
 
-제품 아이디어를 빠르게 프로토타이핑하고
-실제 동작하는 결과물까지 구현한 프로젝트입니다.
+It continuously analyzes microphone audio and provides practical issue guidance and first-step EQ suggestions.
 
-**Repository**
-
-https://github.com/Kimajun0919/WebPhotoBooth
+**Repository**  
+https://github.com/LIGHTOFLIFE-Lab/LoLvlance
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📡 Walkie Talkie Showcase
+## 🧩 Markup TXT Studio
 
-통신 및 인터랙션 경험을 구현한
-**Walkie Talkie Showcase**
+A practical web toolkit that combines:
 
-기술을 사용자 경험과 연결해
-제품 형태로 표현한 프로젝트입니다.
+- `ai.txt` generation
+- `llms.txt` generation
+- structured-data markup search
 
-**Repository**
+Built as a unified React + Vite workspace for AI/search-oriented website operations.
 
-https://github.com/Kimajun0919/walkie-talkie-showcase
+**Repository**  
+https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio
 
 </td>
 </tr>
@@ -222,33 +241,27 @@ https://github.com/Kimajun0919/walkie-talkie-showcase
 <tr>
 <td width="50%" valign="top">
 
-## ⚙️ i-care Automation
+## 📖 The Steps of Haneul
 
-반복되는 업무를 줄이기 위한
-**Group Automation System**
+A digital Bible-card experience that recommends Scripture and lets users save beautifully formatted verse cards as images.
 
-업무 프로세스를 분석하고
-자동화 구조로 전환하는 실험 프로젝트입니다.
+The project explores meaningful content presentation, responsive UI, and lightweight personalization.
 
-**Repository**
-
-https://github.com/Kimajun0919/i-care-Group-Automation-System
+**Repository**  
+https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌐 JKim Foundation Demo
+## 🔬 GEO Tools
 
-웹 서비스 구조와 UI를 구현한
-**Foundation Website Demo**
+Experiments and utilities for testing and exploring **Generative Engine Optimization (GEO)** concepts.
 
-빠르게 아이디어를 검증하고
-실제 웹 형태로 구현한 프로젝트입니다.
+These projects are part of LIGHT OF LIFE Lab's ongoing exploration of how websites can be better understood by AI-driven discovery systems.
 
-**Repository**
-
-https://github.com/Kimajun0919/jkimfoundationDemo
+**Organization**  
+https://github.com/LIGHTOFLIFE-Lab
 
 </td>
 </tr>
@@ -256,31 +269,29 @@ https://github.com/Kimajun0919/jkimfoundationDemo
 
 ---
 
-# 🗂 Public Repositories
+# 🗂 Organization Repositories
 
 <div align="center">
 
-<a href="https://github.com/Kimajun0919/WebPhotoBooth">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kimajun0919&repo=WebPhotoBooth&hide_border=true"/>
+<a href="https://github.com/LIGHTOFLIFE-Lab/LoLvlance">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=LoLvlance&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Kimajun0919/walkie-talkie-showcase">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kimajun0919&repo=walkie-talkie-showcase&hide_border=true"/>
+<a href="https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=Markup-TXT-Studio&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Kimajun0919/i-care-Group-Automation-System">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kimajun0919&repo=i-care-Group-Automation-System&hide_border=true"/>
+<a href="https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=Bibleverses-Card-Template&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Kimajun0919/jkimfoundationDemo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kimajun0919&repo=jkimfoundationDemo&hide_border=true"/>
+<a href="https://github.com/LIGHTOFLIFE-Lab/GEO-TESTER">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=GEO-TESTER&hide_border=true"/>
 </a>
 
 </div>
 
----
-
-# 🎯 I'm Interested In
+# 🎯 Areas I'm Interested In
 
 ```text
 AI Native Products
@@ -293,36 +304,31 @@ Product Design
 Local-first Software
 ```
 
-특히 **AI 자체보다 AI를 사용해서 실제 사람의 일을 어떻게 줄일 것인가**에 관심이 있습니다.
+I'm especially interested in **how AI can reduce real work**, rather than AI as a feature by itself.
 
 ---
 
-# 🧭 My Approach
+# 🧭 How I Build
 
 ### 01. Find the Core
 
-기능보다 먼저
-**사용자가 실제로 겪고 있는 문제가 무엇인지** 찾습니다.
+Understand the actual problem before designing features.
 
 ### 02. Make It Simple
 
-복잡한 기술을 그대로 노출하기보다
-사용자가 쉽게 사용할 수 있는 경험으로 바꿉니다.
+Turn technical complexity into an experience people can use naturally.
 
 ### 03. Build It
 
-아이디어와 문서에서 멈추지 않고
-동작하는 프로덕트로 만듭니다.
+Move beyond ideas and documentation into working products.
 
 ### 04. Ship It
 
-완벽한 제품을 기다리기보다
-사용자에게 전달하고 실제 반응을 확인합니다.
+Release early enough to learn from real users.
 
 ### 05. Improve It
 
-데이터와 피드백을 바탕으로
-제품을 계속 발전시킵니다.
+Use feedback and data to continuously improve the product.
 
 ---
 
@@ -368,27 +374,26 @@ Business
 AI
 ```
 
-다양한 영역을 연결해
-**아이디어와 실제 제품 사이의 거리를 줄이는 사람**이 되고자 합니다.
+I enjoy connecting different disciplines to reduce the distance between an idea and a real product.
 
-* 🎓 Business
-* 🎓 Intelligent Software
-* 🍎 Apple Developer Academy
-* 🚀 Product / Project Management
-* 💻 Web & App Development
-* 🤖 AI Product Development
+- 🎓 Business
+- 🎓 Intelligent Software
+- 🍎 Apple Developer Academy
+- 🚀 Product / Project Management
+- 💻 Web & App Development
+- 🤖 AI Product Development
 
 ---
 
 # 🌱 Currently Exploring
 
-* AI Agent UX
-* AI Workflow Automation
-* Local-first Software
-* Personal Productivity Software
-* Small Business SaaS
-* AI × Product Management
-* Cross-platform App Development
+- AI Agent UX
+- AI Workflow Automation
+- Local-first Software
+- Personal Productivity Software
+- Small Business SaaS
+- AI × Product Management
+- Cross-platform App Development
 
 ---
 
@@ -408,6 +413,10 @@ AI
   <img src="https://img.shields.io/badge/LIGHT_OF_LIFE-Visit-000000?style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/LIGHTOFLIFE-Lab">
+  <img src="https://img.shields.io/badge/LIGHT_OF_LIFE_Lab-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 <br/><br/>
@@ -416,12 +425,12 @@ AI
 
 ### Closer to the Core.
 
-**Build meaningful things.
-Turn ideas into products.
+**Build meaningful things.  
+Turn ideas into products.  
 Make someone's dream possible.**
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
 
 </div>
