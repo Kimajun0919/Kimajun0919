@@ -46,12 +46,12 @@ Listen  →  Find the Core  →  Define  →  Build  →  Ship  →  Improve
 
 Four axes that cover a product end to end. I move across all of them rather than handing off between them.
 
-| | Focus | What I do |
-|---|---|---|
-| **01 · Discover** | Finding the real problem | Field observation, requirement analysis, user flows, core hypotheses |
-| **02 · Design** | Making the problem solvable | Service design, IA & feature definition, screen planning, operating policy, prioritization |
-| **03 · Build** | Making it run | Web services, AI / RAG, API integration, automation tools, prototypes |
-| **04 · Operate** | Keeping it alive | Project management, QA, process improvement, stakeholder alignment |
+| Stage | Focus | What I do |
+|:---|:---|:---|
+| **01&nbsp;·&nbsp;Discover** | Find the real problem | Field observation, requirement analysis, user flows, core hypotheses |
+| **02&nbsp;·&nbsp;Design** | Make it solvable | Service design, IA & feature definition, screen planning, operating policy, prioritization |
+| **03&nbsp;·&nbsp;Build** | Make it run | Web services, AI / RAG, API integration, automation tools, prototypes |
+| **04&nbsp;·&nbsp;Operate** | Keep it alive | Project management, QA, process improvement, stakeholder alignment |
 
 <table>
 <tr>
@@ -235,14 +235,12 @@ A product studio focused on reducing friction through technology, design, and pr
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/LIGHTOFLIFE-Lab/LoLvlance"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=LoLvlance&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-<a href="https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=Markup-TXT-Studio&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-<a href="https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=Bibleverses-Card-Template&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-<a href="https://github.com/LIGHTOFLIFE-Lab/GEO-TESTER"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=GEO-TESTER&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-
-</div>
+| Repository | Stack | What it is |
+|:---|:---|:---|
+| **[LoLvlance](https://github.com/LIGHTOFLIFE-Lab/LoLvlance)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/LoLvlance?style=flat-square&labelColor=0D1117&color=30363D) | Real-time audio monitoring & EQ guidance |
+| **[Markup TXT Studio](https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/Markup-TXT-Studio?style=flat-square&labelColor=0D1117&color=30363D) | `ai.txt` / `llms.txt` + markup search toolkit |
+| **[Bibleverses Card Template](https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/Bibleverses-Card-Template?style=flat-square&labelColor=0D1117&color=30363D) | Scripture recommendation & verse-card export |
+| **[GEO Tester](https://github.com/LIGHTOFLIFE-Lab/GEO-TESTER)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/GEO-TESTER?style=flat-square&labelColor=0D1117&color=30363D) | Generative Engine Optimization experiments |
 
 ---
 
@@ -281,17 +279,15 @@ I'm most interested in **how AI can remove real work** — not AI as a feature b
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kimajun0919&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimajun0919&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E" />
+<img src="https://streak-stats.demolab.com?user=Kimajun0919&hide_border=true&background=00000000&ring=6E7681&fire=6E7681&currStreakLabel=6E7681&sideLabels=6E7681&dates=8B949E&currStreakNum=6E7681&sideNums=6E7681" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Kimajun0919&hide_border=true&background=00000000&ring=808080&fire=808080&currStreakLabel=808080&sideLabels=8B949E&dates=6E7681&currStreakNum=8B949E&sideNums=8B949E" />
-
+<img src="https://img.shields.io/github/followers/Kimajun0919?style=flat-square&label=Followers&labelColor=0D1117&color=30363D" />
 </div>
 
 ---
@@ -300,8 +296,8 @@ I'm most interested in **how AI can remove real work** — not AI as a feature b
 
 Open for a meaningful problem. Based in Seoul, Korea.
 
-| | |
-|---|---|
+| Channel | Link |
+|:---|:---|
 | **Email** | [kimjun9760@naver.com](mailto:kimjun9760@naver.com) |
 | **LinkedIn** | [linkedin.com/in/hajunkim](https://www.linkedin.com/in/hajunkim) |
 | **Portfolio** | [hajunkimportfolio.lightoflife.work](https://hajunkimportfolio.lightoflife.work/) |

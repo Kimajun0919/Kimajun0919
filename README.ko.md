@@ -46,12 +46,12 @@
 
 제품을 처음부터 끝까지 커버하는 네 개의 축입니다. 단계마다 넘기지 않고 직접 관통합니다.
 
-| | 초점 | 하는 일 |
-|---|---|---|
-| **01 · Discover** | 진짜 문제 발견 | 현장 관찰, 요구사항 분석, 사용자 흐름, 핵심 가설 |
-| **02 · Design** | 풀 수 있는 형태로 정의 | 서비스 설계, IA·기능 정의, 화면 기획, 운영 정책, 우선순위 |
-| **03 · Build** | 실제로 작동하게 구현 | 웹 서비스, AI·RAG, API 연동, 자동화 도구, 프로토타입 |
-| **04 · Operate** | 지속 가능하게 운영 | 프로젝트 PM, 품질 검수, 프로세스 개선, 이해관계자 조율 |
+| 단계 | 초점 | 하는 일 |
+|:---|:---|:---|
+| **01&nbsp;·&nbsp;Discover** | 진짜&nbsp;문제&nbsp;발견 | 현장 관찰, 요구사항 분석, 사용자 흐름, 핵심 가설 |
+| **02&nbsp;·&nbsp;Design** | 풀&nbsp;수&nbsp;있게&nbsp;정의 | 서비스 설계, IA·기능 정의, 화면 기획, 운영 정책, 우선순위 |
+| **03&nbsp;·&nbsp;Build** | 작동하게&nbsp;구현 | 웹 서비스, AI·RAG, API 연동, 자동화 도구, 프로토타입 |
+| **04&nbsp;·&nbsp;Operate** | 지속&nbsp;가능한&nbsp;운영 | 프로젝트 PM, 품질 검수, 프로세스 개선, 이해관계자 조율 |
 
 <table>
 <tr>
@@ -235,14 +235,12 @@ AI, 생산성, 자동화, 오디오, 사람 중심 소프트웨어를 만들고 
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/LIGHTOFLIFE-Lab/LoLvlance"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=LoLvlance&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-<a href="https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=Markup-TXT-Studio&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-<a href="https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=Bibleverses-Card-Template&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-<a href="https://github.com/LIGHTOFLIFE-Lab/GEO-TESTER"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LIGHTOFLIFE-Lab&repo=GEO-TESTER&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" /></a>
-
-</div>
+| Repository | Stack | 설명 |
+|:---|:---|:---|
+| **[LoLvlance](https://github.com/LIGHTOFLIFE-Lab/LoLvlance)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/LoLvlance?style=flat-square&labelColor=0D1117&color=30363D) | 실시간 음향 모니터링 · EQ 가이드 |
+| **[Markup TXT Studio](https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/Markup-TXT-Studio?style=flat-square&labelColor=0D1117&color=30363D) | `ai.txt` / `llms.txt` · 마크업 검색 툴킷 |
+| **[Bibleverses Card Template](https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/Bibleverses-Card-Template?style=flat-square&labelColor=0D1117&color=30363D) | 말씀 추천 · 카드 이미지 저장 |
+| **[GEO Tester](https://github.com/LIGHTOFLIFE-Lab/GEO-TESTER)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/GEO-TESTER?style=flat-square&labelColor=0D1117&color=30363D) | Generative Engine Optimization 실험 |
 
 ---
 
@@ -281,17 +279,15 @@ AI, 생산성, 자동화, 오디오, 사람 중심 소프트웨어를 만들고 
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kimajun0919&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E&icon_color=808080" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimajun0919&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=808080&text_color=8B949E" />
+<img src="https://streak-stats.demolab.com?user=Kimajun0919&hide_border=true&background=00000000&ring=6E7681&fire=6E7681&currStreakLabel=6E7681&sideLabels=6E7681&dates=8B949E&currStreakNum=6E7681&sideNums=6E7681&locale=ko" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Kimajun0919&hide_border=true&background=00000000&ring=808080&fire=808080&currStreakLabel=808080&sideLabels=8B949E&dates=6E7681&currStreakNum=8B949E&sideNums=8B949E" />
-
+<img src="https://img.shields.io/github/followers/Kimajun0919?style=flat-square&label=Followers&labelColor=0D1117&color=30363D" />
 </div>
 
 ---
@@ -300,8 +296,8 @@ AI, 생산성, 자동화, 오디오, 사람 중심 소프트웨어를 만들고 
 
 의미 있는 문제라면 언제든 열려 있습니다. Seoul, Korea.
 
-| | |
-|---|---|
+| 채널 | 링크 |
+|:---|:---|
 | **Email** | [kimjun9760@naver.com](mailto:kimjun9760@naver.com) |
 | **LinkedIn** | [linkedin.com/in/hajunkim](https://www.linkedin.com/in/hajunkim) |
 | **Portfolio** | [hajunkimportfolio.lightoflife.work](https://hajunkimportfolio.lightoflife.work/) |
