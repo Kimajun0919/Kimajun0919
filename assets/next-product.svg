@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="288" viewBox="0 0 720 288" role="img" aria-labelledby="title desc">
+<title id="title">SAːIT × saːlt — NEXT PRODUCT</title>
+<desc id="desc">A NEW APP FROM LIGHT OF LIFE. building.</desc>
+<rect x="1" y="1" width="718" height="286" rx="14" fill="#111820" stroke="#2A3542"/>
+<path d="M32 226H688" stroke="#2A3542"/>
+<rect x="510" y="81" width="123" height="123" rx="20" transform="rotate(-10 571 142)" fill="#B8ADDE" fill-opacity=".05" stroke="#B8ADDE" stroke-opacity=".26"/>
+<rect x="534" y="97" width="123" height="123" rx="20" transform="rotate(9 595 158)" fill="#111820" stroke="#B8ADDE" stroke-opacity=".5"/>
+<path d="M574 159H616M595 138V180" stroke="#B8ADDE" stroke-width="2" stroke-opacity=".8"/>
+<circle cx="662" cy="87" r="5" fill="#B8ADDE" fill-opacity=".7"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="32" y="43" fill="#A4B1C0" font-size="11" font-weight="500" letter-spacing="1.4">04 / A NEW APP FROM LIGHT OF LIFE</text>
+<circle cx="596" cy="39" r="3.5" fill="#B8ADDE"/>
+<text x="609" y="43" fill="#B8ADDE" font-size="10" font-weight="600" letter-spacing="1.2">BUILDING</text>
+<text x="30" y="126" fill="#F5F7FA" font-size="44" font-weight="650" letter-spacing="-1.5">SAːIT × saːlt</text>
+<text x="32" y="164" fill="#AEBBC9" font-size="12" font-weight="400" letter-spacing="1">NEXT PRODUCT</text>
+<text x="32" y="260" fill="#B8ADDE" font-size="11" font-weight="500" letter-spacing="1.3">IN DEVELOPMENT</text>
+</g>
+</svg>

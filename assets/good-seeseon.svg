@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="288" viewBox="0 0 720 288" role="img" aria-labelledby="title desc">
+<title id="title">Good Seeseon — 좋은 시선</title>
+<desc id="desc">NEWS &amp; PERSPECTIVES. live.</desc>
+<rect x="1" y="1" width="718" height="286" rx="14" fill="#111820" stroke="#2A3542"/>
+<path d="M32 226H688" stroke="#2A3542"/>
+<rect x="501" y="85" width="165" height="124" rx="8" fill="#E3C99D" fill-opacity=".05" stroke="#E3C99D" stroke-opacity=".22"/>
+<path d="M519 108H647M519 117H609" stroke="#E3C99D" stroke-width="3" stroke-opacity=".55" stroke-linecap="round"/>
+<path d="M519 143H574M519 154H574M519 165H560M593 143H647M593 154H647M593 165H632" stroke="#E3C99D" stroke-width="2" stroke-opacity=".3" stroke-linecap="round"/>
+<path d="M519 188H647" stroke="#E3C99D" stroke-opacity=".2"/>
+<circle cx="670" cy="81" r="6" fill="#E3C99D" fill-opacity=".75"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="32" y="43" fill="#A4B1C0" font-size="11" font-weight="500" letter-spacing="1.4">02 / NEWS &amp; PERSPECTIVES</text>
+<circle cx="596" cy="39" r="3.5" fill="#E3C99D"/>
+<text x="609" y="43" fill="#E3C99D" font-size="10" font-weight="600" letter-spacing="1.2">LIVE</text>
+<text x="30" y="126" fill="#F5F7FA" font-size="44" font-weight="650" letter-spacing="-1.5">Good Seeseon</text>
+<text x="32" y="164" fill="#AEBBC9" font-size="17" font-weight="400" letter-spacing="0">좋은 시선</text>
+<text x="32" y="260" fill="#E3C99D" font-size="11" font-weight="500" letter-spacing="1.3">CONTEXT  /  EVIDENCE  /  SOURCES</text>
+</g>
+</svg>

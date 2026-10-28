@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Hajun Kim — Closer to the Core.</title>
+<desc id="desc">Product Builder, PM, Developer. Founder of LIGHT OF LIFE. I build, launch, and improve products.</desc>
+<rect x="1" y="1" width="1278" height="338" rx="20" fill="#111820" stroke="#2A3542"/>
+<path d="M916 48V292" stroke="#2A3542"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="56" y="54" fill="#A4B1C0" font-size="13" font-weight="500" letter-spacing="2.5">HAJUN KIM  /  LIGHT OF LIFE</text>
+<rect x="56" y="82" width="38" height="3" rx="1.5" fill="#8BD7BF"/>
+<text x="52" y="159" fill="#F5F7FA" font-size="62" font-weight="650" letter-spacing="-2">Closer to the Core.</text>
+<text x="56" y="207" fill="#AEBBC9" font-size="24" font-weight="400" letter-spacing="0">I build, launch, and improve products.</text>
+<text x="56" y="288" fill="#8BD7BF" font-size="12" font-weight="650" letter-spacing="2">PRODUCT BUILDER</text>
+<text x="239" y="288" fill="#A4B1C0" font-size="12" font-weight="500" letter-spacing="1.5">PM  /  DEVELOPER</text>
+<text x="956" y="62" fill="#A4B1C0" font-size="11" font-weight="500" letter-spacing="2">FROM IDEA TO USE</text>
+<text x="956" y="117" fill="#617387" font-size="12" font-weight="500" letter-spacing="0">01</text>
+<text x="999" y="117" fill="#DCE4ED" font-size="18" font-weight="500" letter-spacing="0">Find the problem</text>
+<text x="956" y="169" fill="#617387" font-size="12" font-weight="500" letter-spacing="0">02</text>
+<text x="999" y="169" fill="#DCE4ED" font-size="18" font-weight="500" letter-spacing="0">Build the product</text>
+<text x="956" y="221" fill="#617387" font-size="12" font-weight="500" letter-spacing="0">03</text>
+<text x="999" y="221" fill="#DCE4ED" font-size="18" font-weight="500" letter-spacing="0">Ship &amp; learn</text>
+<text x="956" y="273" fill="#617387" font-size="12" font-weight="500" letter-spacing="0">04</text>
+<text x="999" y="273" fill="#8BD7BF" font-size="18" font-weight="500" letter-spacing="0">Keep improving</text>
+</g>
+</svg>

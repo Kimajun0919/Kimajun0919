@@ -6,305 +6,137 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4F4F4F&height=210&section=header&text=HAJUN%20KIM&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Builder%20%C2%B7%20PM%20%C2%B7%20Developer&descSize=15&descAlignY=55&animation=fadeIn" />
+<img width="100%" alt="Hajun Kim — Closer to the Core. Product Builder · PM · Developer" src="./assets/profile-hero.svg" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=808080&center=true&vCenter=true&width=560&lines=Closer+to+the+Core.;%EA%B8%B0%ED%9A%8D%EC%97%90%EC%84%9C+%EB%81%9D%EB%82%98%EC%A7%80+%EC%95%8A%EB%8A%94+%EC%A0%9C%ED%92%88%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EA%B8%B0%ED%9A%8D+%E2%86%92+%EA%B0%9C%EB%B0%9C+%E2%86%92+%EC%B6%9C%EC%8B%9C+%E2%86%92+%EA%B0%9C%EC%84%A0" />
+**Product Builder · LIGHT OF LIFE 운영**
 
-<br/>
+문제를 찾고, 실제로 쓰이는 제품을 만들어 출시합니다.
 
-<a href="https://hajunkimportfolio.lightoflife.work/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hajunkim"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kimjun9760@naver.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-<a href="https://github.com/LIGHTOFLIFE-Lab"><img src="https://img.shields.io/badge/LIGHT_OF_LIFE_Lab-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+[제품 보기](https://lightoflife.work/projects) · [LIGHT OF LIFE](https://lightoflife.work/) · [LinkedIn](https://www.linkedin.com/in/hajunkim) · [Email](mailto:kimjun9760@naver.com)
 
 </div>
 
 <br/>
 
-> **본질에 가까이. Closer to the Core.**
-> 기획 문서에서 멈추지 않습니다. 진짜 문제를 정의하고, 시스템을 만들고, 출시하고, 계속 개선합니다.
+**LIGHT OF LIFE를 운영하는 김하준**입니다. 기획과 개발, AI와 운영을 연결해 아이디어를 실제로 사용할 수 있는 서비스로 만듭니다.
 
-기획과 기술, AI가 만나는 지점에서 일합니다. 요청서에 적힌 기능보다 **그 일을 시작하게 만든 이유**를 먼저 묻고, 목표까지 가는 가장 짧은 길을 설계해 실제로 작동하는 구조로 만듭니다.
-
-```
-듣는다  →  본질을 찾는다  →  정의한다  →  만든다  →  출시한다  →  개선한다
-```
-
-<table align="center">
-<tr>
-<td align="center" width="20%"><h3>25+</h3><sub>고객사 대응</sub></td>
-<td align="center" width="20%"><h3>61+</h3><sub>전체 프로젝트</sub></td>
-<td align="center" width="20%"><h3>13+</h3><sub>사이드 프로젝트</sub></td>
-<td align="center" width="20%"><h3>7</h3><sub>자동화 도구</sub></td>
-<td align="center" width="20%"><h3>4</h3><sub>주요 역량 축</sub></td>
-</tr>
-</table>
+이 계정과 [LIGHTOFLIFE-Lab](https://github.com/LIGHTOFLIFE-Lab)에서 직접 만든 제품과 도구를 관리합니다. 소스 코드를 비공개로 운영하는 제품도 있습니다.
 
 ---
 
-## 능력 · Capabilities
+## 대표 프로젝트 · Selected Products
 
-제품을 처음부터 끝까지 커버하는 네 개의 축입니다. 단계마다 넘기지 않고 직접 관통합니다.
-
-| 단계 | 초점 | 하는 일 |
-|:---|:---|:---|
-| **01&nbsp;·&nbsp;Discover** | 진짜&nbsp;문제&nbsp;발견 | 현장 관찰, 요구사항 분석, 사용자 흐름, 핵심 가설 |
-| **02&nbsp;·&nbsp;Design** | 풀&nbsp;수&nbsp;있게&nbsp;정의 | 서비스 설계, IA·기능 정의, 화면 기획, 운영 정책, 우선순위 |
-| **03&nbsp;·&nbsp;Build** | 작동하게&nbsp;구현 | 웹 서비스, AI·RAG, API 연동, 자동화 도구, 프로토타입 |
-| **04&nbsp;·&nbsp;Operate** | 지속&nbsp;가능한&nbsp;운영 | 프로젝트 PM, 품질 검수, 프로세스 개선, 이해관계자 조율 |
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 기획 · Product
-
-- 제품 전략 · 디스커버리
-- PRD · IA · 유저 플로우
-- UX 기획 · 서비스 디자인
-- 프로젝트 매니지먼트
-- 0 → 1 제품 설계
-
-</td>
-<td width="33%" valign="top">
-
-#### 개발 · Engineering
-
-- 웹 · 앱 개발
-- 프론트엔드 · 백엔드
-- API 연동
-- 배포 · 자동화
-- Git / GitHub
-
-</td>
-<td width="33%" valign="top">
-
-#### AI
-
-- AI 제품 기획
-- LLM 연동 · RAG
-- 프롬프트·워크플로 설계
-- 에이전틱 워크플로
-- AI UX
-
-</td>
-</tr>
-</table>
-
----
-
-## 기술 스택 · Tech Stack
-
-**Frontend**
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-16181D?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-16181D?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-16181D?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-**Backend & App**
-
-<p>
-<img src="https://img.shields.io/badge/Java-16181D?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-16181D?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-16181D?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-16181D?style=flat-square&logo=dart&logoColor=white" />
-</p>
-
-**AI & Product**
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-16181D?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-16181D?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-16181D?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-16181D?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-16181D?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-16181D?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 프로젝트 · Selected Work
-
-분야와 기술은 달라도 출발점은 같습니다. 누군가의 막힘을 발견하고, 더 나은 흐름으로 바꾸는 일입니다.
+출시해 운영하는 서비스와, 그다음으로 만들고 있는 제품입니다.
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+[![찰떡 — AI 프롬프트 생성·실행 서비스](./assets/chaltteok.svg)](https://chaltteok.cc/)
 
 ### 찰떡 · Chaltteok
 
-`AI` `PM` `사이드프로젝트`
+**운영 중 · AI 서비스**
 
-말투·기준·금지 표현을 AI가 실행 가능한 운영 규칙으로 바꾸는 개인 맞춤 AI 서비스. 기획부터 백엔드·배포·운영, 성장 퍼널 설계까지 직접 운영 중입니다.
+평소 말하듯 요청하면 빠진 조건을 먼저 묻고, 바로 쓸 수 있는 프롬프트로 만들어 줍니다. 만든 자리에서 실행하고, 결과가 아쉬우면 이유를 골라 개선할 수 있습니다.
 
-[chaltteok.cc](https://chaltteok.cc)
+제품 기획과 구현부터 출시·운영·개선까지 직접 이어가는 AI 서비스입니다.
+
+[**찰떡 사용하기 →**](https://chaltteok.cc/)
 
 </td>
 <td width="50%" valign="top">
 
-### Lvlance / LoLvlance
+[![좋은 시선 — 뉴스와 관점을 이해하는 서비스](./assets/good-seeseon.svg)](https://goodseeseon.link/)
 
-`AI` `ML` `PM`
+### 좋은 시선
 
-브라우저 기반 음향 모니터링 서비스. 마이크 입력을 실시간 분석해 소규모 예배·공연 현장의 소리 문제를 감지하고 첫 단계 EQ 가이드를 제공합니다.
+**운영 중 · 뉴스 웹앱**
 
-[Repository](https://github.com/LIGHTOFLIFE-Lab/LoLvlance)
+뉴스의 사건과 배경을 쉽게 풀고, 서로 다른 관점의 이유와 근거를 함께 전합니다. 구체적인 질문과 풀이, 원문 출처를 연결해 스스로 이해하고 판단할 수 있도록 돕습니다.
+
+뉴스를 읽고 생각하는 경험을 더 쉽게 만들기 위해 직접 제작하고 출시한 서비스입니다.
+
+[**좋은 시선 읽어보기 →**](https://goodseeseon.link/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AI 공론장 플랫폼
+[![레벨런스 — 라이브 음향 모니터링](./assets/lvlance.svg)](https://github.com/LIGHTOFLIFE-Lab/LoLvlance)
 
-`AI` `PM` `RAG`
+### 레벨런스 · Lvlance
 
-시민 의견을 수집하고 AI 요약·의견지도·AI 리포트로 공론화 과정을 시각화하는 공공 플랫폼입니다.
+**개발 중 · 라이브 음향 모니터링**
+
+소규모 예배·공연 현장에서 무엇이 이상한지, 다음으로 무엇을 확인해야 하는지 판단할 수 있도록 돕습니다. 브라우저 구현인 LoLvlance는 마이크 입력을 지속적으로 분석해 음향 이슈와 첫 단계 EQ 가이드를 제공합니다.
+
+현장의 필요를 바탕으로 제품 기획, 브라우저 오디오 모니터링, ML 연동을 연결합니다.
+
+[**LoLvlance 살펴보기 →**](https://github.com/LIGHTOFLIFE-Lab/LoLvlance)
 
 </td>
 <td width="50%" valign="top">
 
-### 한양대 HY-RUN 통합 예약 플랫폼
+[![SAːIT × saːlt — 개발 중인 다음 제품](./assets/next-product.svg)](https://lightoflife.work/projects#salt)
 
-`PM` `예약시스템` `관리자`
+### 개발 중인 다음 제품 · SAːIT × saːlt
 
-서울·ERICA 캠퍼스의 연구장비 예약, 교육, 결제, 연구과제, 회원 권한을 하나로 통합 관리하는 플랫폼입니다.
+**개발 중 · 앱**
+
+LIGHT OF LIFE의 다음 앱 제품을 개발하고 있습니다. 제품의 상세 내용은 공개를 준비하고 있습니다.
+
+[**프로젝트 소식 보기 →**](https://lightoflife.work/projects#salt)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-[**전체 케이스 스터디 보기 →**](https://hajunkimportfolio.lightoflife.work/)
-
-</div>
+[LIGHT OF LIFE 제품 페이지 보기 →](https://lightoflife.work/projects)
 
 ---
 
-## 오픈소스 · LIGHT OF LIFE Lab
+## 도구와 실험 · Tools & Experiments
 
-AI, 생산성, 자동화, 오디오, 사람 중심 소프트웨어를 만들고 실험하는 공간입니다.
+업무와 리서치, 일상의 필요에서 출발해 직접 만든 소프트웨어입니다. 공개 저장소와 내부 도구, 프로토타입을 함께 소개합니다.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Markup TXT Studio
-
-`ai.txt` 생성, `llms.txt` 생성, 구조화 데이터 마크업 검색을 하나로 묶은 React + Vite 툴킷. AI·검색 중심 사이트 운영을 위한 실무 도구입니다.
-
-[Repository](https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio)
-
-</td>
-<td width="50%" valign="top">
-
-#### The Steps of Haneul
-
-성경 구절을 추천하고, 아름답게 정돈된 말씀 카드를 이미지로 저장하는 디지털 성경 카드 경험. 콘텐츠 표현과 가벼운 개인화를 실험합니다.
-
-[Repository](https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### GEO Tools
-
-**Generative Engine Optimization** 개념을 테스트하는 실험과 유틸리티. AI 기반 탐색 시스템이 웹사이트를 더 잘 이해하게 만드는 방법을 탐구합니다.
-
-[Organization](https://github.com/LIGHTOFLIFE-Lab)
-
-</td>
-<td width="50%" valign="top">
-
-#### LIGHT OF LIFE
-
-기술과 디자인, 실용적인 소프트웨어로 불편함을 줄이는 프로덕트 스튜디오입니다.
-
-[lightoflife.work](https://lightoflife.work)
-
-</td>
-</tr>
-</table>
-
-| Repository | Stack | 설명 |
+| 프로젝트 | 만든 것 | 코드 |
 |:---|:---|:---|
-| **[LoLvlance](https://github.com/LIGHTOFLIFE-Lab/LoLvlance)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/LoLvlance?style=flat-square&labelColor=0D1117&color=30363D) | 실시간 음향 모니터링 · EQ 가이드 |
-| **[Markup TXT Studio](https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/Markup-TXT-Studio?style=flat-square&labelColor=0D1117&color=30363D) | `ai.txt` / `llms.txt` · 마크업 검색 툴킷 |
-| **[Bibleverses Card Template](https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/Bibleverses-Card-Template?style=flat-square&labelColor=0D1117&color=30363D) | 말씀 추천 · 카드 이미지 저장 |
-| **[GEO Tester](https://github.com/LIGHTOFLIFE-Lab/GEO-TESTER)** | ![](https://img.shields.io/github/languages/top/LIGHTOFLIFE-Lab/GEO-TESTER?style=flat-square&labelColor=0D1117&color=30363D) | Generative Engine Optimization 실험 |
+| **[DevLink-MCP](https://github.com/LIGHTOFLIFE-Lab/DevLink-MCP)** | 로컬 서버 설정, MCP 연결, 파일 동기화·배포·롤백 도구 | 공개 |
+| **[Markup TXT Studio](https://github.com/LIGHTOFLIFE-Lab/Markup-TXT-Studio)** | `ai.txt`·`llms.txt` 생성과 구조화 데이터 마크업 검색 워크스페이스 | 공개 |
+| **[GEO Tools](https://github.com/LIGHTOFLIFE-Lab/GEO-TESTER)** · [GEO-DEMO](https://github.com/LIGHTOFLIFE-Lab/GEO-DEMO) | AI 검색을 위한 웹사이트 진단·탐색 실험 | 공개 |
+| **[SeeWe](https://github.com/Kimajun0919/SeeWe)** | 서울시 공개 데이터로 혼잡도 추정과 교통 정보를 보여주는 지도 기반 MVP | 공개 |
+| **[Yield Balance](https://github.com/Kimajun0919/Money-Balance)** | 개인 자산 관리와 리밸런싱을 위한 프로토타입 | 공개 |
+| **[하늘의 걸음](https://github.com/LIGHTOFLIFE-Lab/Bibleverses-Card-Template)** | 성경 구절 추천과 공유할 수 있는 말씀 카드 이미지 | 공개 |
+| **HK Maintenance AI** | 유지보수 요청 처리, 유사 사례 검색, 사람의 검토를 연결하는 RAG·에이전트 워크플로 | 비공개 |
+| **LawTrace** | 근거 추적과 출처 검증을 갖춘 법률 리서치·사건 분석 시스템 | 비공개 |
+| **WorshipFlow** | 예배 현장을 위한 음원 분리와 라이브 반주 제어 | 비공개 |
+| **Worshipbook** | 찬양 인도자와 팀원을 위한 콘티 구성·악보 화면 동기화 | 비공개 |
+| **We-Are-Artists** | 신진 아티스트를 위한 쇼케이스·아카이브 플랫폼 기획, 사업 설계, 프론트엔드 데모 | 비공개 |
 
 ---
 
-## 배경 · 관심사
+## 기술과 배경 · Stack & Background
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| 영역 | 주로 하는 일과 사용하는 기술 |
+|:---|:---|
+| **제품 기획** | 문제 발견, PRD, IA, 사용자 흐름, 우선순위, 프로젝트 관리 |
+| **웹·백엔드** | TypeScript, JavaScript, React, Next.js, Node.js, Python |
+| **AI·자동화** | LLM 연동, RAG, MCP, 에이전트 워크플로, API 연동 |
+| **설계·운영** | Figma, Notion, Git / GitHub, QA, 배포, 프로세스 개선 |
 
-#### Background
+**경영학·지능형소프트웨어·Apple Developer Academy**를 배경으로 웹·앱 개발과 프로덕트·프로젝트 관리를 경험했습니다.
 
-- 경영학
-- 지능형소프트웨어
-- Apple Developer Academy
-- 프로덕트 / 프로젝트 매니지먼트
-- 웹 · 앱 개발
-- AI 제품 개발
-
-</td>
-<td width="50%" valign="top">
-
-#### Currently Exploring
-
-- AI 에이전트 UX
-- AI 워크플로 자동화
-- 로컬 퍼스트 소프트웨어
-- 개인 생산성 소프트웨어
-- 소상공인 SaaS
-- AI × 프로덕트 매니지먼트
-
-</td>
-</tr>
-</table>
-
-**AI를 기능으로 얹는 것이 아니라, AI가 실제 일을 얼마나 줄여줄 수 있는지**에 가장 관심이 많습니다.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kimajun0919&hide_border=true&background=00000000&ring=6E7681&fire=6E7681&currStreakLabel=6E7681&sideLabels=6E7681&dates=8B949E&currStreakNum=6E7681&sideNums=6E7681&locale=ko" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/Kimajun0919?style=flat-square&label=Followers&labelColor=0D1117&color=30363D" />
-</div>
+문제의 맥락을 이해하고, 만들 수 있는 범위를 정의하고, 직접 구현해 사용 과정에서 개선합니다.
 
 ---
 
 ## 연락처 · Contact
 
-의미 있는 문제라면 언제든 열려 있습니다. Seoul, Korea.
+함께 풀고 싶은 문제가 있다면 편하게 연락해 주세요.
 
-| 채널 | 링크 |
-|:---|:---|
-| **Email** | [kimjun9760@naver.com](mailto:kimjun9760@naver.com) |
-| **LinkedIn** | [linkedin.com/in/hajunkim](https://www.linkedin.com/in/hajunkim) |
-| **Portfolio** | [hajunkimportfolio.lightoflife.work](https://hajunkimportfolio.lightoflife.work/) |
-| **GitHub** | [@Kimajun0919](https://github.com/Kimajun0919) |
-| **Studio** | [lightoflife.work](https://lightoflife.work) · [LIGHT OF LIFE Lab](https://github.com/LIGHTOFLIFE-Lab) |
-
-아직 문제가 선명하지 않아도 괜찮습니다. 목표와 맥락을 함께 살피며 가장 본질적인 시작점을 찾겠습니다.
+[Email](mailto:kimjun9760@naver.com) · [LinkedIn](https://www.linkedin.com/in/hajunkim) · [LIGHT OF LIFE](https://lightoflife.work/) · [LIGHTOFLIFE-Lab](https://github.com/LIGHTOFLIFE-Lab)
 
 <div align="center">
 
@@ -312,8 +144,6 @@ AI, 생산성, 자동화, 오디오, 사람 중심 소프트웨어를 만들고 
 
 **Closer to the Core.**
 
-<sub>의미 있는 것을 만들고 · 아이디어를 제품으로 만들고 · 누군가의 꿈을 가능하게</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F4F4F,100:0D1117&height=110&section=footer" />
+<sub>문제를 찾고 · 제품을 만들고 · 출시하고 · 계속 개선합니다</sub>
 
 </div>
